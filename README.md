@@ -1,2 +1,5 @@
 # Raspberry Pİ Process
- Raspberry-Pi-Sensor
+ Raspberry ile 
+ -RPı.GPIO 
+ -Gpıoz 
+    kütüphaneleri kulanılarak  HCSR04-PWMLED-BUTON bağlantılarının sağlanması
